@@ -125,7 +125,7 @@
     <!-- NoSQL -->
     <version.cassandra.driver>3.0.0</version.cassandra.driver>
     <version.com.googlecode.concurrentlinkedhashmap>1.4.1</version.com.googlecode.concurrentlinkedhashmap>
-    <version.com.orientechnologies>2.2.9</version.com.orientechnologies>
+    <version.com.orientechnologies>3.0.26</version.com.orientechnologies>
     <version.com.tinkerpop.blueprints>2.6.0</version.com.tinkerpop.blueprints>
     <version.mongodb.driver>3.2.2</version.mongodb.driver>
     <version.neo4j.driver>1.2.1</version.neo4j.driver>
