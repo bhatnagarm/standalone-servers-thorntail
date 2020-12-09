@@ -150,7 +150,7 @@
     <!-- Gradle -->
     <version.gradle>3.1</version.gradle>
     <version.gradle.plugins>1.12</version.gradle.plugins>
-    <version.groovy>2.4.3</version.groovy>
+    <version.groovy>2.4.21</version.groovy>
 
     <!-- MVC -->
     <version.mvc>1.0-pfd</version.mvc>
